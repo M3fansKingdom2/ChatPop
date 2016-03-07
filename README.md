@@ -1,2 +1,2 @@
-# ChatPop
-A plugin that sends a pop sound when a player talks
+# GhastChat
+A Scary Sound Plugin When Player Talks
