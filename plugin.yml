@@ -3,7 +3,7 @@ author: M3fansKingdom2
 version: "1.0"
 api:
 - 1.12.0
-main: GhastChat\Main
+main: ChatPop\Main
 commands: []
 permissions: []
 ...
