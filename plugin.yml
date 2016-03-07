@@ -1,9 +1,9 @@
-name: ChatPop
-author: CaptainKenji17
+name: GhastChat
+author: M3fansKingdom2
 version: "1.0"
 api:
 - 1.12.0
-main: ChatPop\Main
+main: GhastChat\Main
 commands: []
 permissions: []
 ...
